@@ -1,0 +1,15 @@
+pandas==0.25.1
+sklearn==0.21.3
+tensorboardX==1.8
+tensorboard==1.14.0
+tqdm
+thop
+shutil
+numpy
+math
+scipy
+collections
+glob
+copy
+functools
+sympy
