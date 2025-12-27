@@ -35,7 +35,7 @@ The model parameters on other datasets can be downloaded from here;
 
 - First propose dynamic comprehensive difficulty in KT domain, which can dynamically update the comprehensive difficulty based on students' evolving knowledge mastery level, and directs to construct **D**ynamic comprehensive **D**ifficulty **K**nowledge **C**ells (**DDKC**), significantly improves the KT model's performance.
 - First construct a novel training strategy that utilizes Stable Learning and its training sample weights, which effectively eliminates spurious correlations caused by students’ lucky guesses, focuses more on tracing students' real knowledge states.
-- We conduct comprehensive experiments to validate proposed DDKC's performance on four public educational datasets with extensive baselines. Experimental results demonstrate the superiority of DDKC in terms of prediction performance and interpretability, and achieve SOTA prediction performance in all metrics on above datasets.
+- We conduct comprehensive experiments to validate proposed DDKC's performance on several public educational datasets with extensive baselines. Experimental results demonstrate the superiority of DDKC in terms of prediction performance and interpretability, and achieve SOTA prediction performance in all metrics on above datasets.
 
 
 ## Setup
