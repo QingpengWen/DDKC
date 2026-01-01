@@ -109,14 +109,23 @@ python run.py --dataset assistments09 --savedir <your savedir>  --eval False
 
 ## Cite this paper
 @article{HU2026108514,
+
 title = {Dynamic comprehensive difficulty knowledge cells based on KAN network and stable learning for knowledge tracing},
+
 journal = {Neural Networks},
+
 volume = {197},
+
 pages = {108514},
+
 year = {2026},
+
 issn = {0893-6080},
+
 doi = {https://doi.org/10.1016/j.neunet.2025.108514},
+
 url = {https://www.sciencedirect.com/science/article/pii/S0893608025013954},
+
 author = {Qintai Hu and Qingpeng Wen and Pengfei Wei and Bi Zeng and Guang Feng and Liangda Fang}
 }
 
