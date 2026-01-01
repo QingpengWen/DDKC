@@ -14,7 +14,7 @@ Accept at *Neural Networks* (December 19, 2025);
 
 Pre-proof [online](https://doi.org/10.1016/j.neunet.2025.108514) (December 25, 2025).
 
-Published [online](https://doi.org/10.1016/j.neunet.2025.108514) (January1, 2026 [happy new year ^_^ best wishes!]).
+Published [online](https://doi.org/10.1016/j.neunet.2025.108514) (January 1, 2026 [happy new year ^_^ best wishes!]).
 
 For reproducing the implementations of Dynamic comprehensive Difficulty Knowledge Cells (**DDKC**):
 
